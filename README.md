@@ -1,12 +1,10 @@
 - 👋 Hi, I’m @shrutipachpor810
-- 👀 I’m interested in Data Science and AIML
+- 👀 I’m interested in Data Science, AIML and Web Development
 - 🌱 I’m currently pursuing Bachelors of Engineering in Computer Engineering and Honors in Artificial Intelligence and Machine Learning
-- 💞️ I’m looking to collaborate on projects related to Software development
+- 🤝 I’m looking to collaborate on AI projects, social-good apps, and web-based tools.
 - 📫 How to reach me : email-shrutipachpor810-@gmail.com
 - 😄 Pronouns: she/her
+---
+_Thanks for stopping by! Feel free to connect & collaborate!_ 🤍
 
 
-<!---
-shrutipachpor810/shrutipachpor810 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
